@@ -5,7 +5,7 @@ export interface IUserDto {
   registeredAt: string
 }
 
-export interface ICreatedAt {
+export interface ICreatedUserDto {
   name: string
   username: string
   password: string
