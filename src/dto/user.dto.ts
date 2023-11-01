@@ -4,3 +4,9 @@ export interface IUserDto {
   name: string
   registeredAt: string
 }
+
+export interface ICreatedAt {
+  name: string
+  username: string
+  password: string
+}
